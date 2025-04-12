@@ -1,4 +1,4 @@
-👋 Hi, I’m @hanraywon
+👋 Hi, I’m Ray
 
 🧠 I tinker with physics, code, and web stuff — mostly for fun, always with curiosity  
 🐍 Learning Python on the side, chasing ways to live smarter, not harder  
